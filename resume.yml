@@ -1,0 +1,189 @@
+cv:
+  name: "Hengyi Wu"
+  location: "College Park, MD"
+  email: "hw987@umd.edu"
+  phone: "tel:+1-813-451-1772"
+  website: ""
+  social_networks:
+    - network: "LinkedIn"
+      username: "hengyi-wu-9aaaa1136"
+    - network: "GitHub"
+      username: "apslying"
+  sections:
+    education:
+      - institution: "University of Maryland, College Park"
+        area: "Computer Science"
+        degree: "PhD"
+        start_date: "2024"
+        end_date: "2029"
+        highlights:
+          - "GPA: 3.8/4.0"
+          - "**Coursework:** Natural Language Processing, Large Multimodal Models,  Multimodal Computer Vision  "
+      - institution: "New York University, Courant Institute"
+        area: "Mathematics and Computer Science"
+        degree: "BA"
+        date: ""
+        location: ""
+        start_date: "2013"
+        end_date: "2017"
+        highlights:
+          - "Honors: Julius Silver Scholar, Major GPA: 3.8/4.0 "
+          - "**Coursework:** Numerical Methods, Computer Simulation, Analytical Statistics "
+    experience:
+      - company: "Johnson & Johnson"
+        position: "Software Engineer"
+        location: "Edison, NJ"
+        start_date: "2017"
+        end_date: "2024"
+        highlights:
+          - "Built data ingestion pipeline in Hadoop and Apache ecosystem, used AWS storage"
+          - "Created cloud server for Cloudera Data Science Workbench using Flask, Docker, Kubernetes"
+          - "Optimized data ingestion speed by 30% by using Spark instead of Hive queries  "
+      - company: "IDB Bank"
+        position: "Data Scientist"
+        location: "New York City, NY"
+        start_date: "2016-06"
+        end_date: "2016-09"
+        highlights:
+          - "Automated credits/debits to client accounts using Visual Basic "
+          - "Presented changing client account balances in Excel and PowerPoint "
+      - company:
+        position:
+        date:
+        start_date:
+        end_date:
+        location:
+        summary:
+        highlights: []
+      - company:
+        position:
+        date:
+        start_date:
+        end_date:
+        location:
+        summary:
+        highlights: []
+      - company:
+        position:
+        date:
+        start_date:
+        end_date:
+        location:
+        summary:
+        highlights: []
+      - company:
+        position:
+        date:
+        start_date:
+        end_date:
+        location:
+        summary:
+        highlights: []
+    research:
+      - name: |
+          Large Language Models
+        date: ""
+        location: ""
+        start_date: ""
+        end_date: ""
+        highlights:
+          - |
+            Investigated Tool-Assisted Agentic AI (ex. Toolformer, TALM) on API-Bank benchmarks 
+          - |
+            Tested Llama 3 and GPT4’s ability to produce correct Chain-of-Thought Reasoning given irrelevant context on GSM8K dataset
+          - ""
+      - name: |
+          Machine Learning Theory 
+        date: ""
+        location: ""
+        start_date: ""
+        end_date: ""
+        highlights:
+          - |
+            Wrote “Probabilistic PCA for Matrix Factorization for Collaborative Filtering”
+    projects:
+      - name: "Efficient LLM "
+        date: ""
+        highlights:
+          - "Incorporated memory efficient LoRa layers to Transformer and feed forward layers on Distillbert-uncased-8B from HuggingFace. "
+      - name: |
+          Deep Averaging Network
+        date: ""
+        highlights:
+          - "Built a deep learning averaging network to answer QA questions at over 92% accuracy."
+    technologies:
+      - label: "Programming"
+        details: "Python, Pytorch, Pandas, Numpy, MATLAB, JavaScript, C++"
+      - label: "Other"
+        details: "Hadoop, AWS, Azure, Bash, Impala, SQL, Linux,  LaTeX"
+design:
+  theme: "sb2nov"
+  font: "Latin Modern Serif"
+  font_size: "11pt"
+  page_size: "letterpaper"
+  color: "#004f90"
+  disable_external_link_icons: false
+  disable_page_numbering: true
+  page_numbering_style: "NAME - Page PAGE_NUMBER of TOTAL_PAGES"
+  disable_last_updated_date: true
+  last_updated_date_style: "Last updated in TODAY"
+  header_font_size: "24 pt"
+  text_alignment: "justified"
+  seperator_between_connections: ""
+  use_icons_for_connections: true
+  margins:
+    page:
+      top: "2 cm"
+      bottom: "2 cm"
+      left: "2 cm"
+      right: "2 cm"
+    section_title:
+      top: "0.3 cm"
+      bottom: "0.2 cm"
+    entry_area:
+      left_and_right: "0.2 cm"
+      vertical_between: "0.2 cm"
+      date_and_location_width: "4.5 cm"
+    highlights_area:
+      top: "0.10 cm"
+      left: "0.4 cm"
+      vertical_between_bullet_points: "0.10 cm"
+    header:
+      vertical_between_name_and_connections: "0.3 cm"
+      bottom: "0.3 cm"
+      horizontal_between_connections: "0.5 cm"
+locale_catalog:
+  phone_number_format: "national"
+  date_style: "MONTH_ABBREVIATION YEAR"
+  abbreviations_for_months:
+    - "Jan"
+    - "Feb"
+    - "Mar"
+    - "Apr"
+    - "May"
+    - "Jun"
+    - "Jul"
+    - "Aug"
+    - "Sep"
+    - "Oct"
+    - "Nov"
+    - "Dec"
+  full_names_of_months:
+    - "January"
+    - "February"
+    - "March"
+    - "April"
+    - "May"
+    - "June"
+    - "July"
+    - "August"
+    - "September"
+    - "October"
+    - "November"
+    - "December"
+  month: "month"
+  months: "months"
+  year: "year"
+  years: "years"
+  present: "present"
+  to: "to"

@@ -11,35 +11,46 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D in Computer Science**, University of Maryland, College Park, 2024-2029
+  * GPA: 3.8/4.0
+  * **Coursework:** Natural Language Processing, Large Multimodal Models, Multimodal Computer Vision
 
-Work experience
+* **B.A. in Mathematics and Computer Science**, New York University, Courant Institute, 2013-2017
+  * Honors: Julius Silver Scholar, Major GPA: 3.8/4.0
+  * **Coursework:** Numerical Methods, Computer Simulation, Analytical Statistics
+
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Software Engineer**, Johnson & Johnson, Edison, NJ (2017-2024)
+  * Built data ingestion pipeline in Hadoop and Apache ecosystem, used AWS storage
+  * Created cloud server for Cloudera Data Science Workbench using Flask, Docker, Kubernetes
+  * Optimized data ingestion speed by 30% by using Spark instead of Hive queries
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Data Scientist**, IDB Bank, New York City, NY (June 2016 - September 2016)
+  * Automated credits/debits to client accounts using Visual Basic
+  * Presented changing client account balances in Excel and PowerPoint
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Large Language Models Research**
+  * Investigated Tool-Assisted Agentic AI (ex. Toolformer, TALM) on API-Bank benchmarks
+  * Tested Llama 3 and GPT4's ability to produce correct Chain-of-Thought Reasoning given irrelevant context on GSM8K dataset
+
+* **Machine Learning Theory Research**
+  * Wrote "Probabilistic PCA for Matrix Factorization for Collaborative Filtering"
+
+Projects
+======
+* **Efficient LLM**
+  * Incorporated memory efficient LoRa layers to Transformer and feed forward layers on Distillbert-uncased-8B from HuggingFace
+
+* **Deep Averaging Network**
+  * Built a deep learning averaging network to answer QA questions at over 92% accuracy
+
+Technical Skills
+======
+* **Programming:** Python, Pytorch, Pandas, Numpy, MATLAB, JavaScript, C++
+* **Other Technologies:** Hadoop, AWS, Azure, Bash, Impala, SQL, Linux, LaTeX
 
 Publications
 ======
@@ -58,7 +69,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

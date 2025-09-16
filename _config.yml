@@ -22,10 +22,10 @@ repository               : "apslying/apslying.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Hengyi Wu"
+  avatar           : "profile_pic.jpg"
+  name             : "Hengyi Wu"  
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student in Computer Science at University of Maryland, College Park"
+  bio              : "MS Student in Computer Science at University of Maryland, College Park"
   location         : "College Park, MD"
   employer         : "University of Maryland"
   uri              : # URL

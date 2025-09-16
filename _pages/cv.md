@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+In Progress!
+
+<!-- Education
 ======
 * **Ph.D in Computer Science**, University of Maryland, College Park, 2024-2029
   * GPA: 3.8/4.0
@@ -68,4 +70,4 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->

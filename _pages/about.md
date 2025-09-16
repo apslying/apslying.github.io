@@ -1,21 +1,21 @@
 ---
 permalink: /
-title: "Welcome to Hengyi Wu's Academic Website"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my academic website! I am Hengyi Wu, an MS student in Computer Science at the University of Maryland, College Park. This site showcases my research, publications, and academic activities.
+Hi! I'm Hengyi Wu. This site showcases my research, publications, and academic activities.
 
 About Me
 ======
-I am currently pursuing a MS in Computer Science at the University of Maryland, College Park (2024-2026), with a focus on **Large Language Models** and **Machine Learning Theory**. My research interests include Tool-Assisted Agentic AI, Chain-of-Thought Reasoning, and efficient deep learning architectures.
+I'm currently pursuing a MS in Computer Science at the University of Maryland, College Park (2024-2026), with a focus on machine learning. My research interests include **Continual Learning and Memory Systems for Large Language Models (LLMs)**.
 
-Prior to my MS, I worked as a Software Engineer, where I built data ingestion pipelines using Hadoop and Apache ecosystem, and developed cloud solutions with Flask, Docker, and Kubernetes. I hold a BA in Mathematics and Computer Science from NYU Courant Institute (2013-2017).
+Prior to my MS, I worked as a Software Engineer. I hold a BA in Mathematics and Computer Science from NYU.
 
-Research Interests
+<!-- Research Interests
 ======
 - **Large Language Models**: Investigating Tool-Assisted Agentic AI and Chain-of-Thought Reasoning
 - **Machine Learning Theory**: Probabilistic PCA for Matrix Factorization and Collaborative Filtering
@@ -25,7 +25,7 @@ Current Projects
 ======
 - **Efficient LLM**: Incorporating memory efficient LoRa layers to Transformer and feed forward layers
 - **Deep Averaging Network**: Built a deep learning averaging network achieving over 92% accuracy on QA tasks
-- **Tool-Assisted AI**: Testing LLaMA 3 and GPT-4's Chain-of-Thought reasoning capabilities on GSM8K dataset
+- **Tool-Assisted AI**: Testing LLaMA 3 and GPT-4's Chain-of-Thought reasoning capabilities on GSM8K dataset -->
 
 Navigation Guide
 ======

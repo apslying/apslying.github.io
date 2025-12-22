@@ -27,13 +27,13 @@ Current Projects
 - **Deep Averaging Network**: Built a deep learning averaging network achieving over 92% accuracy on QA tasks
 - **Tool-Assisted AI**: Testing LLaMA 3 and GPT-4's Chain-of-Thought reasoning capabilities on GSM8K dataset -->
 
-Navigation Guide
+<!-- Navigation Guide
 ======
 - **Publications**: Browse my research papers and academic publications
 - **Talks**: Information about presentations and conference talks
 - **Teaching**: Details about courses and educational activities
 - **CV**: Complete academic curriculum vitae
-- **Portfolio**: Showcase of projects and academic work
+- **Portfolio**: Showcase of projects and academic work -->
 
 Contact
 ======

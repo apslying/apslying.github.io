@@ -35,6 +35,11 @@ Current Projects
 - **CV**: Complete academic curriculum vitae
 - **Portfolio**: Showcase of projects and academic work -->
 
+Recent Publications
+======
+[Dynamic Feedback Engines: Layer-Wise Control for Self-Regulating Continual Learning](https://arxiv.org/abs/2512.21743)
+*Preprint. Currently under review.*
+
 Contact
 ======
 Feel free to reach out if you're interested in collaboration, have questions about my research, or would like to discuss academic opportunities. You can find me at [hw987@umd.edu](mailto:hw987@umd.edu) or connect with me on [LinkedIn](https://linkedin.com/in/hengyi-wu-9aaaa1136).

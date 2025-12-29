@@ -37,7 +37,7 @@ Current Projects
 
 Recent Publications
 ======
-[Dynamic Feedback Engines: Layer-Wise Control for Self-Regulating Continual Learning](https://arxiv.org/abs/2512.21743)
+[Dynamic Feedback Engines: Layer-Wise Control for Self-Regulating Continual Learning](https://arxiv.org/abs/2512.21743)  
 *Preprint. Currently under review.*
 
 Contact
